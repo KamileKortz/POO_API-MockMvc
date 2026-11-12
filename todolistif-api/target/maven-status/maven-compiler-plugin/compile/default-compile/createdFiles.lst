@@ -1,0 +1,6 @@
+br/edu/ifpr/todolistif/controller/TodoApiController.class
+br/edu/ifpr/todolistif/service/TodoService.class
+br/edu/ifpr/todolistif/repository/TodoRepository.class
+br/edu/ifpr/todolistif/dto/TodoResponseDTO.class
+br/edu/ifpr/todolistif/model/Todo.class
+br/edu/ifpr/todolistif/TodolistifApplication.class

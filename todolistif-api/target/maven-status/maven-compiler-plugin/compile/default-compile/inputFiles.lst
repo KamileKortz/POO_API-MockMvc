@@ -1,0 +1,6 @@
+/home/aluno/todolistif-api/src/main/java/br/edu/ifpr/todolistif/TodolistifApplication.java
+/home/aluno/todolistif-api/src/main/java/br/edu/ifpr/todolistif/controller/TodoApiController.java
+/home/aluno/todolistif-api/src/main/java/br/edu/ifpr/todolistif/dto/TodoResponseDTO.java
+/home/aluno/todolistif-api/src/main/java/br/edu/ifpr/todolistif/model/Todo.java
+/home/aluno/todolistif-api/src/main/java/br/edu/ifpr/todolistif/repository/TodoRepository.java
+/home/aluno/todolistif-api/src/main/java/br/edu/ifpr/todolistif/service/TodoService.java
